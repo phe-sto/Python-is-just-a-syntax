@@ -1,5 +1,7 @@
 # Python is just an idiom
 
+Christophe Brun, PapIT (christophe.brun@papit.fr)
+
 ## Abstract
 
 This article and code repository aim to highlight that Python is just an idiom, a syntax.
